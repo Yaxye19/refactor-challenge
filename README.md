@@ -5,6 +5,9 @@
 This is a web application which promotes a marketing agency called Horiseon.
 This code base was refactored according to the clients requests. So all the links are now functioning, the CSS selectors are consolidated to be made more simple and use less lines of code and the HTML follows semantic structure. The html file and css file both contain comments to follow good practice and to make it easier for other programmer particpants to follow. 
 
+![image](https://user-images.githubusercontent.com/78431953/204346785-966a7d8f-6a2d-4cc3-a300-8e785240cc60.png)
+
+
 ## Installation
 
    N/A
