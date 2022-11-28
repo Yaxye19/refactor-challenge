@@ -22,4 +22,4 @@ MIT License. Refer to the LICENSE in the repo.
 
 ## Website
 
-![My Image](/challenge/assets/images/digital-marketing-meeting.jpg)
+![image](https://user-images.githubusercontent.com/78431953/204358912-84f3b20e-e2ff-4d5a-ae63-deced2e9fce9.png)
